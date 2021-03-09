@@ -1,8 +1,12 @@
-![](https://media-exp1.licdn.com/dms/image/C4D16AQHp8of8Sa_YJg/profile-displaybackgroundimage-shrink_350_1400/0/1606835305913?e=1620864000&v=beta&t=XkbSq2uH1qgICJ5_JyHnhr8aNZAdl9FPd7vlU7QlnqM)
+# 🟦 Hi Everyone! I'm Yukn Lee
 
-### Hi Everyone! 👋
 
-I'm Lee Yukn, Flutter Developer and Digital Security & Cyber Defense Student, before this I was studying Information System. I really enjoy learning about code, investigation and cyber security.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lee-yukn-7025481ab/)](https://www.linkedin.com/in/lee-yukn-7025481ab/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lee.yukn/)](https://www.instagram.com/lee.yukn/) [![Github Badge](https://img.shields.io/badge/-Github-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/YuknLee/)](https://github.com/YuknLee/)
+
+ 
+ -> Flutter Developer and Digital Security & Cyber Defense Student, before this I was studying Information System. 
+ 
+ -> I really enjoy learning about code, investigation and cyber security.
 
 
 ## Skills and Experience
@@ -12,4 +16,7 @@ I'm Lee Yukn, Flutter Developer and Digital Security & Cyber Defense Student, be
 * 🔥 SQL & Firebase 
 * 🐘 PHP 
 * 💻 HTML & CSS & Flutter Web
+* 🇧🇷 🇺🇲 🇯🇵 🇨🇳 🇷🇺 
  
+
+
