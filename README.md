@@ -1,16 +1,15 @@
-### Hi there 👋
+![](https://media-exp1.licdn.com/dms/image/C4D16AQHp8of8Sa_YJg/profile-displaybackgroundimage-shrink_350_1400/0/1606835305913?e=1620864000&v=beta&t=XkbSq2uH1qgICJ5_JyHnhr8aNZAdl9FPd7vlU7QlnqM)
 
-<!--
-**YuknLee/YuknLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi Everyone! 👋
 
-Here are some ideas to get you started:
+I'm Lee Yukn, Flutter Developer and Digital Security & Cyber Defense Student, before this I was studying Information System. I really enjoy learning about code, investigation and cyber security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills and Experience
+
+* 📱 Flutter Mobile
+* 🎯 Dart & Flutter 
+* 🔥 SQL & Firebase 
+* 🐘 PHP 
+* 💻 HTML & CSS & Flutter Web
+ 
